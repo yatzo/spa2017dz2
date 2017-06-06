@@ -5,7 +5,7 @@
 - Rješenje se predaje pull requestom na projekt https://github.com/racspa/spa2017dz2
 - Rješenje predano nakon gornjeg roka neće se uvažiti
 - Naziv pull requesta treba biti u obliku *SPA-Z02-ImePrezime-ImeAsistenta* (npr *SPA-Z02-ImePrezime-dbele* ili *SPA-Z02-ImePrezime-mzagar*)
-
+- Solution s projektima 'zadatak1' i 'zadatak2' kreirajte u direktoriju 'rjesenje'
 
 
 ## Zadatak 1: I4, 2 boda
