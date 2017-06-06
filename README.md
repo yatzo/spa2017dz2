@@ -17,14 +17,14 @@ U prilogu je aplikacija kakvu trebate napraviti, a sastoji se od sljedećeg: igr
 Savjeti:
 - Od nestandardnih zaglavlja se preporuča uključiti: Windows.h, conio.h, ctime.
 -  Kad želimo dohvatiti koju tipku je korisnik zadnju pritisnuo, možemo koristiti:
-```
-char get_user_input() {
-if (_kbhit()) {
-return _getch();
-}
-return 0;
-}
-```
+   ```
+   char get_user_input() {
+     if (_kbhit()) {
+       return _getch();
+     }
+     return 0;
+   }
+   ```
 
 ### Koraci za kreiranje pull requesta
 - kreirajte github account
